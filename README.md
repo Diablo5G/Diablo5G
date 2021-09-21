@@ -1,5 +1,3 @@
-<!--
-**Diablo5G/Diablo5G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there <img src="/animated-emoticons-2018-1.gif" width="50"> <https://pic.funnygifsbox.com/uploads/2016/06/funnygifsbox.com_2016-06-15_17-03-54.gif> I'm Nina Herbold
 
