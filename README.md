@@ -1,7 +1,7 @@
 
-### Hi there <img src="https://pic.funnygifsbox.com/uploads/2021/05/funnygifsbox.com-2021-05-29-07-09-12-44.gif" width="50"> I'm Nina Herbold
+### Hi there! I'm Nina <img src="https://pic.funnygifsbox.com/uploads/2021/05/funnygifsbox.com-2021-05-29-07-09-12-44.gif" width="50">
 
-- :satellite: I’m currently working on this page.
+- :satellite:  I’m currently working on this page.
 - :computer: I'm learning cyber security from ["The Cybersecurity Bootcamp at UT Austin"](https://techbootcamps.utexas.edu/cybersecurity/).
 - :trophy: CompTIA Security+ Certified | Splunk Core Certified User | CompTIA Network+ Certified | CompTIA A+ Certified
 - :yin_yang: Fake it until you make it!
