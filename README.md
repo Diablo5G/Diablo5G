@@ -2,7 +2,7 @@
 ### Hi there! I'm Nina <img src="https://pic.funnygifsbox.com/uploads/2021/05/funnygifsbox.com-2021-05-29-07-09-12-44.gif" width="50">
 
 - :satellite:  I’m currently working on this page and some repositories.
-- :computer: UT Austin Boot Camps Certificate: Cybersecurity from ["The Cybersecurity Bootcamp at UT Austin"](https://techbootcamps.utexas.edu/cybersecurity/).
+- :computer: UT Austin Boot Camps Certificate: Cybersecurity.
 - :trophy: CompTIA Security+ Certified | Splunk Core Certified User | CompTIA Network+ Certified | CompTIA A+ Certified | MS-ITM | BS-IT
 - :yin_yang: Live simply | dream Big | Be grateful | give Love | Laugh lots
 > <img src="https://pic.funnygifsbox.com/uploads/2020/10/funnygifsbox.com-2020-10-06-13-32-17-67.gif" width="50"> Life isn't so fair for all of us. Some spend their whole lives on unpaved roads, while some run at full speed only to reach the edge of a cliff.
