@@ -2,7 +2,7 @@
 ### Hi there! I'm Nina <img src="https://pic.funnygifsbox.com/uploads/2021/05/funnygifsbox.com-2021-05-29-07-09-12-44.gif" width="50">
 
 - :satellite:  I’m currently working on this page and some repositories.
-- :computer: UT Austin Boot Camps Certificate: Cybersecurity Year of 2021.
+- :computer: UT Austin Boot Camps Certificate: Cybersecurity Year of 2021 | CodeRed | TryHackMe
 - :trophy: CompTIA Security+ Certified | Splunk Core Certified User | CompTIA Network+ Certified | CompTIA A+ Certified | MS-ITM | BS-IT | Best Paper Award 2015 International Conference on Big Data, IoT and Cloud Computing ISSN 2412-0065 Volume 1, 2015
 - :yin_yang: Live simply | dream Big | Be grateful | give Love | Laugh lots
 
