@@ -9,7 +9,7 @@
 ##
 ---
  
-[<img src='https://github.com/Diablo5G/ELK-Stack-Project/blob/main/Resources/Images/download.jpeg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nina-herbold-8635a2212/)[<img src='https://github.com/Diablo5G/Certification-Prep/blob/main/Splunk%20Certification/Images/credly.svg' alt='github' height='40'>](https://www.credly.com/users/nina-herbold/badges) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nina-herbold-8635a2212/)[<img src='https://github.com/Diablo5G/Certification-Prep/blob/main/Splunk%20Certification/Images/Credly-Logo.png' alt='github' height='40'>](https://www.credly.com/users/nina-herbold/badges) 
 
 [![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=diablo5g&hide=issues,contribs&count_private=true&show_icons=true&theme=yeblu)](https://github.com/diablo5g/github-readme-stats)  
  
