@@ -1,7 +1,7 @@
 
 ### Hi there! I'm Nina, professional avoid common mistakes <img src="https://pic.funnygifsbox.com/uploads/2021/05/funnygifsbox.com-2021-05-22-12-08-33-86.gif" width="100">
 
-- :satellite:  I’m currently working on this page and some repositories. Life of cloud security cheat sheet is coming. 
+- :satellite:  I’m currently working on this page and some repositories. 
 - :computer: UT Austin Certificate: Cybersecurity Year of 2021 | TryHackMe | MS-ITM | BS-IT
 - :trophy: CompTIA Security+ Net+ A+ Certified | Splunk Core Certified User | Certified DevOps Engineer – Foundation | Best Paper Award 2015 International Conference on Big Data, IoT and Cloud Computing ISSN 2412-0065 Volume 1, 2015
 - :yin_yang: Rome wasn't build in a day
