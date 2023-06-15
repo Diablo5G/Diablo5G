@@ -14,5 +14,4 @@
 ##
 ---
 
-<img src="https://camo.githubusercontent.com/83f0d3be3e7be8027e9726afe0f1eacaccbc49969298d7ad4263102679928733/68747470733a2f2f677076632e6172747572696f2e6465762f6b61726d612d373836" alt="Profile views" data-canonical-src="https://gpvc.arturio.dev/Diablo5G" style="max-width: 100%;">
 
