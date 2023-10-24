@@ -1,5 +1,5 @@
 
-### Hi there! I'm Nina, professional avoid common mistakes <img src="https://pic.funnygifsbox.com/uploads/2021/05/funnygifsbox.com-2021-05-22-12-08-33-86.gif" width="100">
+### Hi there! I'm professional avoid common mistakes <img src="https://pic.funnygifsbox.com/uploads/2021/05/funnygifsbox.com-2021-05-22-12-08-33-86.gif" width="100">
 
 - :satellite:  I’m currently working on this page and some repositories. 
 - :computer: UT Austin Certificate: Cybersecurity Year of 2021 | TryHackMe | amazon.qwiklabs | MS-ITM | BS-IT
